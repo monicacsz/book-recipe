@@ -3,4 +3,5 @@
 Olá! Bem-vindo ao meu livro de receitas :hand:
 
 - Torta de frango
+- Pavê
 
